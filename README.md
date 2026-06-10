@@ -26,9 +26,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 
 
-## BI: Analytics & Reporting (Data Analytics)
+# BI: Analytics & Reporting (Data Analytics)
 
-# Objective
+## Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -42,12 +42,12 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 
-License
+### License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 
 
-About Me
+## About Me
 
 Hi! I’m Aditi Vikey, a CSE student who loves turning messy data into cool insights. I play around with SQL, Python, and dashboards to make data actually make sense. Always curious, always learning — and probably debugging something right now 🙂
