@@ -43,4 +43,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## About Me
 
-Hi! I’m Aditi Vikey, a CSE student who loves turning messy data into cool insights. I play around with SQL, Python, and dashboards to make data actually make sense. Always curious, always learning — and probably debugging something right now 🙂
+Hi! I’m Aditi Vikey, a CSE student who loves turning messy data into cool insights. I play around with SQL, Python, and dashboards to make data actually make sense. Always curious, always learning — and probably debugging something right now 👷‍♀️
