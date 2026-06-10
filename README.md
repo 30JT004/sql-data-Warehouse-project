@@ -1,18 +1,18 @@
 # :woman_technologist: **Data Warehouse and Analytics Project**
 
-## :card_file_box: Welcome to the ***Data Warehouse and Analytics Project*** repository!
+## Welcome to the ***Data Warehouse and Analytics Project*** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
-## :hammer_and_wrench: Project Requirements
+### :memo: Project Requirements
 
-:building_construction: Building the Data Warehouse (Data Engineering)
+Building the Data Warehouse (Data Engineering)
 
-## :file_cabinet: Objective 
+### :pushpin: Objective 
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 
-## :warning: Specifications 
+### :warning: Specifications 
 
 **Data sources** : Import data from two source systems (ERP and CRM) provided as CSV files.
 
@@ -26,23 +26,21 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 
 
-# BI: Analytics & Reporting (Data Analytics)
+# :bar_chart: BI: Analytics & Reporting (Data Analytics)
 
-## Objective
+### 📌 Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behaviour
-
-Product Performance
-
-Sales Trends
+1. Customer Behaviour
+2. Product Performance
+3. Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
 
-### License
+## License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
